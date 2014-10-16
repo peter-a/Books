@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="message_invalid_email">Please enter a valid e-mail address.</string>
+	<string name="message_invalid_passowrd">Invalid password. Only latin letters and numbers are allowed.</string>
+	<string name="message_empty_sign_up_password">Invalid password. Please fill both password fields.</string>
+	<string name="message_invalid_fullname">Please enter your full name.</string>
+	<string name="message_passwords_dont_match">Invalid password. Please make sure that both password fields match.</string>
+	<string name="message_fatal_error">Fatal error.</string>
+	<string name="message_registration_exits">A registration with the given e-mail already exists.</string>
+	<string name="message_registration_successful">Your registration was successful.</string>
+	<string name="message_sign_in_password_empty">Invalid password. Please fill the password field.</string>
+	<string name="message_no_internet_connection">You are not connected to the internet. Please connect and try again.</string>    
+</resources>

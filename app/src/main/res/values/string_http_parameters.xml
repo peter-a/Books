@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="http_email_param">email</string>
+    <string name="http_password_param">password</string>
+    <string name="http_fullname_param">fullname</string>
+</resources>

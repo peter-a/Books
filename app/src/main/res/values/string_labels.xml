@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_all_books_dialog_message">Request the book from another user or add it to My Books?</string>
+    <string name="button_all_books_dialog_yes_label">Add to My Books</string>
+    <string name="button_all_books_dialog_no_label">Request book</string>
+
+    <string name="button_my_books_message">Remove the book from your library or view book details?</string>
+    <string name="button_my_books_yes_label">Yes</string>
+    <string name="button_my_books_no_label">No</string>
+</resources>

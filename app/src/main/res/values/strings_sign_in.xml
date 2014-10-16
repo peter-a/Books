@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Books</string>
+    
+    <string name="tab_sign_in">Sign in</string>
+    <string name="tab_sign_up">Sign up</string>
+    
+    <string name="cancel">Cancel</string>
+    
+    <string name="enter_email">E-mail</string>
+    <string name="full_name">Full name</string>
+    <string name="enter_password">Password</string>    
+    <string name="reenter_password">Re-enter password</string>
+    <string name="http_request_result">Result of http request.</string>
+    
+</resources>

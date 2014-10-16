@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res" >
+            <file
+                name="ic_action_accept"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-hdpi\ic_action_accept.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-hdpi\ic_action_cancel.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-hdpi\ic_action_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-mdpi\ic_action_accept.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-mdpi\ic_action_cancel.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-mdpi\ic_action_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xhdpi\ic_action_accept.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xhdpi\ic_action_cancel.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xhdpi\ic_action_search.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xxhdpi\ic_action_accept.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xxhdpi\ic_action_cancel.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xxhdpi\ic_action_search.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_books"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\activity_books.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_sign_in"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\activity_sign_in.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="books_list_row"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\books_list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_all_books"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\fragment_all_books.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_my_books"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\fragment_my_books.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_notifications"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\fragment_notifications.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_sign_in"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\fragment_sign_in.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_sing_up"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\layout\fragment_sing_up.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\strings_main.xml"
+                qualifiers="" >
+                <string name="tab_all_books" >All Books
+                </string>
+                <string name="tab_notifications" >Notifications
+                </string>
+                <string name="tab_my_books" >My Books
+                </string>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\strings_messages.xml"
+                qualifiers="" >
+                <string name="message_passwords_dont_match" >Invalid password. Please make sure that both password fields match.
+                </string>
+                <string name="message_invalid_email" >Please enter a valid e-mail address.
+                </string>
+                <string name="message_invalid_fullname" >Please enter your full name.
+                </string>
+                <string name="message_sign_in_password_empty" >Invalid password. Please fill the password field.
+                </string>
+                <string name="message_invalid_passowrd" >Invalid password. Only latin letters and numbers are allowed.
+                </string>
+                <string name="message_fatal_error" >Fatal error.
+                </string>
+                <string name="message_registration_exits" >A registration with the given e-mail already exists.
+                </string>
+                <string name="message_no_internet_connection" >You are not connected to the internet. Please connect and try again.
+                </string>
+                <string name="message_empty_sign_up_password" >Invalid password. Please fill both password fields.
+                </string>
+                <string name="message_registration_successful" >Your registration was successful.
+                </string>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\strings_sign_in.xml"
+                qualifiers="" >
+                <string name="tab_sign_up" >Sign up
+                </string>
+                <string name="enter_password" >Password
+                </string>
+                <string name="reenter_password" >Re-enter password
+                </string>
+                <string name="app_name" >Books
+                </string>
+                <string name="http_request_result" >Result of http request.
+                </string>
+                <string name="cancel" >Cancel
+                </string>
+                <string name="tab_sign_in" >Sign in
+                </string>
+                <string name="enter_email" >E-mail
+                </string>
+                <string name="full_name" >Full name
+                </string>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\string_http_parameters.xml"
+                qualifiers="" >
+                <string name="http_email_param" >email
+                </string>
+                <string name="http_fullname_param" >fullname
+                </string>
+                <string name="http_password_param" >password
+                </string>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="@android:style/Theme.Holo" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="@android:style/Theme.Holo" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="@android:style/Theme.Holo" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\main\res\values\string_labels.xml"
+                qualifiers="" >
+                <string name="button_my_books_no_label" >No
+                </string>
+                <string name="button_my_books_message" >Remove the book from your library or view book details?
+                </string>
+                <string name="button_all_books_dialog_no_label" >Request book
+                </string>
+                <string name="button_all_books_dialog_message" >Request the book from another user or add it to My Books?
+                </string>
+                <string name="button_my_books_yes_label" >Yes
+                </string>
+                <string name="button_all_books_dialog_yes_label" >Add to My Books
+                </string>
+            </file>
+        </source>
+        <source path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\build\generated\res\rs\debug" />
+        <source path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Program Files (x86)\Android\android-studio\Projects\Books\app\src\debug\res" />
+    </dataSet>
+
+</merger>

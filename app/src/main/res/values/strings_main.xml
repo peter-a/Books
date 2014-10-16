@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_all_books">All Books</string>
+    <string name="tab_my_books">My Books</string>
+    <string name="tab_notifications">Notifications</string>
+</resources>
